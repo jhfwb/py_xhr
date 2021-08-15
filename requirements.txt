@@ -1,2 +1,2 @@
-utils_xhr==1.0
-annotate_xhr==1.0
+utils_xhr
+annotate_xhr
